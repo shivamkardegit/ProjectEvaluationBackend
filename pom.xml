@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>ProjectEvaluationBackend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>ProjectEvaluationBackend</name>
 	<description>Backend Project for Evaluation</description>
 	<url/>
